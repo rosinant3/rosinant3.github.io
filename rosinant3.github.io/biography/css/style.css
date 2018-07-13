@@ -1,0 +1,211 @@
+.row-no-padding > [class*="col-"] {
+
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+     
+}
+
+.heading {
+
+    font-family: 'Roboto', sans-serif;
+    color: #00ADEF;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+
+}
+
+.small-nav {
+
+    list-style: none;
+    background-color: #00ADEF;
+    padding-left:0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    margin-bottom: 0px;
+    font-family: 'Roboto', sans-serif;
+    text-align:center;
+
+}
+
+.small-nav > li {
+
+    display: inline-block;
+    margin-right: 15px;
+
+}
+
+.small-nav > li > a {
+
+    color: white;
+    text-decoration: none;
+
+}
+
+.small-nav > li > a:hover {
+
+    color: rgb(21, 98, 129);
+    text-decoration: none;
+
+}
+
+.jumbo {
+
+    width: 100%;
+    text-align: center;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: 'Roboto', sans-serif;
+    max-width: 1300px;
+    display: block;
+   
+}
+
+.img1 {
+
+    width: 250px;
+    height: 270px;
+    border-radius: 50%;
+    display: inline-block;
+    background-image: url("img/mirsad.jpg");
+    background-size:250px;
+    background-repeat: no-repeat;
+
+}
+
+.list {
+
+    list-style: none;
+    display: inline;
+    padding-left: 0px;
+
+
+}
+
+.under-heading {
+
+    font-size: 20px;
+    color: rgb(12, 102, 138);
+    margin:0px;
+
+}
+
+.icons {
+
+    font-size: 30px;
+    display: inline-block;
+    margin-top: 0px;
+
+}
+
+.icons > a {
+
+    margin-right: 5px;
+
+}
+
+#projects {
+
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+#other {
+
+    font-family: 'Roboto', sans-serif;
+    margin-top:5px;
+    margin-bottom: 10px;
+
+}
+
+.jumbo2 {
+
+    width: 100%;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    display: none;
+   
+}
+
+.img2 {
+
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-image: url("img/mirsad.jpg");
+    background-size: 60px;
+    background-repeat: no-repeat;
+
+}
+
+.resume {
+
+    margin: auto;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+
+}
+
+.ghead {
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+
+}
+
+g.head > p {
+
+    display: inline;
+
+}
+
+#home {
+
+    cursor: pointer;
+
+}
+
+#home:hover {
+
+    color: rgb(21, 98, 129);
+
+}
+
+#resume {
+
+    cursor: pointer;
+
+}
+
+#resume:hover {
+
+    color: rgb(21, 98, 129);
+
+}
+
+table, tr, th {
+
+    border-style: bold;
+
+}
+
+.preview:hover {
+
+    text-decoration: none;
+
+}
